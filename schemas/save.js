@@ -6,12 +6,12 @@ export default {
         {
             name: 'postedBy',
             title: 'PostedBy',
-            type: 'postedBy'
+            type: 'postedBy',
         },
         {
             name: 'userId',
             title: 'UserID',
-            type: 'string'
+            type: 'string',
         },
     ]
 }
